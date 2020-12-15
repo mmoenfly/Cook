@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="OLEDB">
+  <ConnectionProperties>
+    <Extension>OLEDB</Extension>
+    <ConnectString>Provider=MSOLAP.4;Data Source=srv02\sql8r2;Initial Catalog="Adventure Works DW 2008R2"</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+  </ConnectionProperties>
+  <DataSourceID>af0345d5-0729-4a29-b8bc-b0cd473287c8</DataSourceID>
+</RptDataSource>

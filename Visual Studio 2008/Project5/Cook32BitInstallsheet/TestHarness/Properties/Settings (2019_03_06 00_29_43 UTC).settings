@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TestHarness.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TestHarness_com_ccisupportsite_WS_Logger" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ccisupportsite.com/wslogger/ws_logger.asmx</Value>
+    </Setting>
+    <Setting Name="TestHarness_CookCustomers_GetCustomersService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.cookconsulting.net:80/cciweb.nsf/GetCustomers?OpenWebService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

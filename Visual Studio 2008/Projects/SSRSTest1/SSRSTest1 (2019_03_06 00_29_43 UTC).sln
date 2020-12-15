@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRSTest1", "SSRSTest1\SSRSTest1.rptproj", "{FEDAD604-D7AD-4ED4-B4BA-35C7D482EFAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEDAD604-D7AD-4ED4-B4BA-35C7D482EFAD}.Debug|Default.ActiveCfg = Debug
+		{FEDAD604-D7AD-4ED4-B4BA-35C7D482EFAD}.Debug|Default.Build.0 = DebugLocal
+		{FEDAD604-D7AD-4ED4-B4BA-35C7D482EFAD}.Debug|Default.Deploy.0 = DebugLocal
+		{FEDAD604-D7AD-4ED4-B4BA-35C7D482EFAD}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{FEDAD604-D7AD-4ED4-B4BA-35C7D482EFAD}.DebugLocal|Default.Build.0 = DebugLocal
+		{FEDAD604-D7AD-4ED4-B4BA-35C7D482EFAD}.Release|Default.ActiveCfg = Release
+		{FEDAD604-D7AD-4ED4-B4BA-35C7D482EFAD}.Release|Default.Build.0 = Release
+		{FEDAD604-D7AD-4ED4-B4BA-35C7D482EFAD}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Clients  xml:space="preserve">
+  <!--  Root Level Node-->
+  <client host="mikeserver" target="\\test\install\mike" unid="adfadfasdfasdf" email="adfadsfasdf" office="2007" />
+  <client   host="mikeserver" target="\\test\install\bob" unid="adfadfasdfasdf1" email="adfadsfasdf" office="2007" />
+  <client   host="mikeserver" target="\\test\install\tom" unid="adfadfasdfasdf2" email="adfadsfasdf" office="2007" />
+  
+  
+</Clients>

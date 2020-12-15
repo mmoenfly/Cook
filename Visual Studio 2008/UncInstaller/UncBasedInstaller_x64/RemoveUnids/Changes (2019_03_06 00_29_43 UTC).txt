@@ -1,0 +1,5 @@
+﻿Change Log
+// 6 Sept 2011
+// - 001  Change to support cleaning of xml 
+//         Per TC 
+//         Added lines to delete the xml on a hard delete from Godaddy

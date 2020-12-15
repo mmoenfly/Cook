@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Messages xml:space="preserve" >
+  <Message  mailbox="mike.m@mm1biz.net" to="ACCVideoclipsservice@theacc.org"
+from="AVCS@theACC.org" subjecttrigger="Ingest:ACC Highlights" timedelayinminutes="10" outboundsubject="ACC Video Clips Service NEW CONTENT: " delete="N"
+            bodytagphrase="Processing Fast Track Document" >
+  <msgtext>
+The links below offer the latest video content available on the ACC Video Clips Service (AVCS).
+These files can be accessed via the "Backdoor" method as found in Appendix 3 (page 14) of the AVCS User Guide.
+
+If you have any questions about these clips or the overall service please contact Scott McBurney - smcburney@theacc.org.</msgtext>
+
+    <signaturetext> 
+      <line>Scott McBurney</line>
+      <line>Atlantic Coast Conference/Advanced Media</line>
+      <line>4512 Weybridge Lane</line>
+      <line>Greensboro, NC  27407</line>
+      <line>(336) 851-6067</line>
+    </signaturetext>
+
+  </Message> 
+  <Schools>
+    <School>UNC</School>
+    <School>BC</School>
+    <School>DUKE</School>
+    <School>CLEM</School> 
+    <School>GT</School> 
+    <School>FSU</School> 
+    <School>MD</School>
+    <School>UM</School> 
+    <School>NCSU</School> 
+    <School>UVA</School>
+    <School>VT</School>
+    <School>WFU</School>
+    <School>ACC</School>
+    
+  </Schools>
+</Messages>

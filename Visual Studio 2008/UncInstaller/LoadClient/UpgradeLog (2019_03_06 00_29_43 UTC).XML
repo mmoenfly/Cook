@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LoadClient">
+</Property><Property Name="Solution File" Value="C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\LoadClient.sln">
+</Property><Property Name="User Options File" Value="C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\LoadClient.suo">
+</Property><Property Name="Date" Value="Friday, February 10, 2012">
+</Property><Property Name="Time" Value="7:02 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LoadClient.sln" Description="File successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\LoadClient.sln">
+</Event><Event ErrorLevel="0" Project="" Source="LoadClient.suo" Description="File successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\LoadClient.suo">
+</Event><Event ErrorLevel="0" Project="LoadClient" Source="LoadClient\LoadClient.csproj" Description="Project file successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\LoadClient\LoadClient.csproj">
+</Event><Event ErrorLevel="0" Project="LoadClient" Source="LoadClient\LoadClient.csproj.user" Description="Project user file successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\LoadClient\LoadClient.csproj.user">
+</Event><Event ErrorLevel="0" Project="LoadClient" Source="LoadClient\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\LoadClient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="LoadClient" Source="LoadClient\LoadServer.cs" Description="File successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\LoadClient\LoadServer.cs">
+</Event><Event ErrorLevel="0" Project="LoadClient" Source="LoadClient\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\LoadClient\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="LoadClient" Source="LoadClient\WebStore.cs" Description="File successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\LoadClient\WebStore.cs">
+</Event><Event ErrorLevel="0" Project="LoadClient" Source="LoadClient\app.config" Description="File successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\LoadClient\app.config">
+</Event><Event ErrorLevel="0" Project="LoadClient" Source="LoadClient\LoadClient_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\LoadClient\LoadClient_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="LoadClient" Source="LoadClient\Properties\Settings.settings" Description="File successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\LoadClient\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="LoadClient" Source="LoadClient\LoadClient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="LoadClient" Source="LoadClient\LoadClient.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="BasicFtp" Source="..\UncBasedInstaller_x64\BasicFtp\BasicFtp.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="BasicFtp" Source="..\UncBasedInstaller_x64\BasicFtp\BasicFtp.csproj" Description="Project file successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\BasicFtp\BasicFtp.csproj">
+</Event><Event ErrorLevel="0" Project="BasicFtp" Source="..\UncBasedInstaller_x64\BasicFtp\BasicFtp.cs" Description="File successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\BasicFtp\BasicFtp.cs">
+</Event><Event ErrorLevel="0" Project="BasicFtp" Source="..\UncBasedInstaller_x64\BasicFtp\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\mjm.MJM\Documents\Visual Studio 2008\UncInstaller\LoadClient\Backup\BasicFtp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BasicFtp" Source="..\UncBasedInstaller_x64\BasicFtp\BasicFtp.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="BasicFtp" Source="..\UncBasedInstaller_x64\BasicFtp\BasicFtp.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="LoadClient.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="LoadClient.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="LoadClient" Source="LoadClient\LoadClient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

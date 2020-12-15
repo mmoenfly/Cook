@@ -1,0 +1,2 @@
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Projects\InstallSheet\Installer\bin\Debug\Installer.exe.config
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Projects\InstallSheet\Installer\obj\Debug\Installer.csproj.ResolveComReference.cache

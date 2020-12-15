@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CookSpreadSheetInstall", "InstallSheet\InstallSheet.vdproj", "{557945C0-BA66-474E-B266-3274A709ECF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrtDatabase", "EncryptFile\CrtDatabase.csproj", "{784F2474-EC91-47F9-A875-2FAB0846A9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BldCustSheet", "UpDateSheet\BldCustSheet.csproj", "{55146A98-6B88-4062-8339-ACF24375E5D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installer", "Installer\Installer.csproj", "{39FAD401-BE8C-448E-B158-4BA08D2BC19A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DwnLoadDB", "DwnLoadDB\DwnLoadDB.csproj", "{9E09D4A6-F60B-4DDA-9DC3-3665512172B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness", "TestHarness\TestHarness.csproj", "{7F2566A7-3EEE-41F1-82DE-FFC25017BD04}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1CE99D34-452D-4B86-9116-37FD91AC572E} = {1CE99D34-452D-4B86-9116-37FD91AC572E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness2", "TestHarness2\TestHarness2.csproj", "{D5578D03-4720-4F5F-BFC5-951E9FBA3D0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS_Logger", "WS_Logger\WS_Logger.csproj", "{1CE99D34-452D-4B86-9116-37FD91AC572E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uninstall", "Uninstall\Uninstall.csproj", "{BB35378E-654F-456D-A3D4-742380FA0CC7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 10
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://srv02:5050/tfs
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DwnLoadDB\\DwnLoadDB.csproj
+		SccProjectName1 = DwnLoadDB
+		SccLocalPath1 = DwnLoadDB
+		SccProjectUniqueName2 = EncryptFile\\CrtDatabase.csproj
+		SccProjectName2 = EncryptFile
+		SccLocalPath2 = EncryptFile
+		SccProjectUniqueName3 = Installer\\Installer.csproj
+		SccProjectName3 = Installer
+		SccLocalPath3 = Installer
+		SccProjectUniqueName4 = InstallSheet\\InstallSheet.vdproj
+		SccProjectName4 = InstallSheet
+		SccLocalPath4 = InstallSheet
+		SccProjectUniqueName5 = TestHarness2\\TestHarness2.csproj
+		SccProjectName5 = TestHarness2
+		SccLocalPath5 = TestHarness2
+		SccProjectUniqueName6 = TestHarness\\TestHarness.csproj
+		SccProjectName6 = TestHarness
+		SccLocalPath6 = TestHarness
+		SccProjectUniqueName7 = Uninstall\\Uninstall.csproj
+		SccProjectName7 = Uninstall
+		SccLocalPath7 = Uninstall
+		SccProjectUniqueName8 = UpDateSheet\\BldCustSheet.csproj
+		SccProjectName8 = UpDateSheet
+		SccLocalPath8 = UpDateSheet
+		SccProjectUniqueName9 = WS_Logger\\WS_Logger.csproj
+		SccProjectName9 = WS_Logger
+		SccLocalPath9 = WS_Logger
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557945C0-BA66-474E-B266-3274A709ECF3}.Debug|Any CPU.ActiveCfg = Debug
+		{557945C0-BA66-474E-B266-3274A709ECF3}.Debug|Any CPU.Build.0 = Debug
+		{557945C0-BA66-474E-B266-3274A709ECF3}.Release|Any CPU.ActiveCfg = Release
+		{557945C0-BA66-474E-B266-3274A709ECF3}.Release|Any CPU.Build.0 = Release
+		{784F2474-EC91-47F9-A875-2FAB0846A9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784F2474-EC91-47F9-A875-2FAB0846A9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784F2474-EC91-47F9-A875-2FAB0846A9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784F2474-EC91-47F9-A875-2FAB0846A9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55146A98-6B88-4062-8339-ACF24375E5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55146A98-6B88-4062-8339-ACF24375E5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55146A98-6B88-4062-8339-ACF24375E5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55146A98-6B88-4062-8339-ACF24375E5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39FAD401-BE8C-448E-B158-4BA08D2BC19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FAD401-BE8C-448E-B158-4BA08D2BC19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FAD401-BE8C-448E-B158-4BA08D2BC19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FAD401-BE8C-448E-B158-4BA08D2BC19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E09D4A6-F60B-4DDA-9DC3-3665512172B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E09D4A6-F60B-4DDA-9DC3-3665512172B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E09D4A6-F60B-4DDA-9DC3-3665512172B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E09D4A6-F60B-4DDA-9DC3-3665512172B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2566A7-3EEE-41F1-82DE-FFC25017BD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2566A7-3EEE-41F1-82DE-FFC25017BD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2566A7-3EEE-41F1-82DE-FFC25017BD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2566A7-3EEE-41F1-82DE-FFC25017BD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5578D03-4720-4F5F-BFC5-951E9FBA3D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5578D03-4720-4F5F-BFC5-951E9FBA3D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5578D03-4720-4F5F-BFC5-951E9FBA3D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5578D03-4720-4F5F-BFC5-951E9FBA3D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE99D34-452D-4B86-9116-37FD91AC572E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE99D34-452D-4B86-9116-37FD91AC572E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE99D34-452D-4B86-9116-37FD91AC572E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE99D34-452D-4B86-9116-37FD91AC572E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB35378E-654F-456D-A3D4-742380FA0CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB35378E-654F-456D-A3D4-742380FA0CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB35378E-654F-456D-A3D4-742380FA0CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB35378E-654F-456D-A3D4-742380FA0CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

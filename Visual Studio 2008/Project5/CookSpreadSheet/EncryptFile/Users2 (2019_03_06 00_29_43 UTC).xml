@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewentries toplevelentries="1">
+<viewentry position="1" unid="799BAA5DD426F0A0852577120068998C" noteid="3352" siblings="1">
+<entrydata columnnumber="0" name="CustomerName">
+<text>Alexander County Schools</text></entrydata>
+<entrydata columnnumber="1" name="ConnectionID">
+<text>AS400.Alexander.K12.NC.US</text></entrydata>
+<entrydata columnnumber="2" name="SystemName">
+<text>S1013342</text></entrydata>
+<entrydata columnnumber="3" name="TypeFinance">
+<text>ISIS</text></entrydata>
+<entrydata columnnumber="4" name="TypInstall">
+<text>Finance</text></entrydata>
+<entrydata columnnumber="5" name="conUserName">
+<text>Sharon MeHaffey</text></entrydata>
+<entrydata columnnumber="6" name="BudSummary">
+<text>Y</text></entrydata>
+<entrydata columnnumber="7" name="BudDet">
+<text>Y</text></entrydata>
+<entrydata columnnumber="8" name="BudCN">
+<text>Y</text></entrydata>
+<entrydata columnnumber="9" name="PO">
+<text>Y</text></entrydata>
+<entrydata columnnumber="10" name="cmpPrimDept">
+<text>Finance</text></entrydata>
+
+<entrydata columnnumber="11" name="conDeptSch">
+<textlist><text>Bus Garage</text><text>Career &amp; Technical ED</text><text>Child Nutrition</text><text>Community Schools</text><text>Elementary Education</text><text>Exceptional Children</text><text>Headstart</text><text>Human Resources</text><text>Technology</text><text>Testing</text><text>Title 1</text></textlist></entrydata>
+</viewentry>
+</viewentries>

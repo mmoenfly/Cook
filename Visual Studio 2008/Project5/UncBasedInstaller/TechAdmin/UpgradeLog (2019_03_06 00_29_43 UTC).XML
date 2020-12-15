@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="TechAdmin_StandAlone">
+</Property><Property Name="Solution File" Value="C:\UncBasedInstaller\TechAdmin\TechAdmin_StandAlone.sln">
+</Property><Property Name="User Options File" Value="C:\UncBasedInstaller\TechAdmin\TechAdmin_StandAlone.suo">
+</Property><Property Name="Date" Value="Wednesday, November 23, 2011">
+</Property><Property Name="Time" Value="11:40 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="TechAdmin_StandAlone.sln" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\TechAdmin_StandAlone.sln">
+</Event><Event ErrorLevel="0" Project="" Source="TechAdmin_StandAlone.suo" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\TechAdmin_StandAlone.suo">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="TechAdmin_StandAlone.csproj" Description="Project file successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\TechAdmin_StandAlone.csproj">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="TechAdmin_StandAlone.csproj.user" Description="Project user file successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\TechAdmin_StandAlone.csproj.user">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="CC2DataSetUnid.cs" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\CC2DataSetUnid.cs">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="CC2DataSetUnid.Designer.cs" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\CC2DataSetUnid.Designer.cs">
+</Event><Event ErrorLevel="2" Project="TechAdmin_StandAlone" Source="CCIDataSet.Designer.cs" Description="Failed to backup file as C:\UncBasedInstaller\TechAdmin\Backup\CCIDataSet.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="primary.cs" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\primary.cs">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="primary.Designer.cs" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\primary.Designer.cs">
+</Event><Event ErrorLevel="2" Project="TechAdmin_StandAlone" Source="Program.cs" Description="Failed to backup file as C:\UncBasedInstaller\TechAdmin\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="Resources.Designer.cs" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="Settings.Designer.cs" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="Settings1.Designer.cs" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\Settings1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="app.config" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="CC2DataSetUnid.xsc" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\CC2DataSetUnid.xsc">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="CC2DataSetUnid.xsd" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\CC2DataSetUnid.xsd">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="CC2DataSetUnid.xss" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\CC2DataSetUnid.xss">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="CCIDataSet.xsc" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\CCIDataSet.xsc">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="CCIDataSet.xsd" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\CCIDataSet.xsd">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="CCIDataSet.xss" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\CCIDataSet.xss">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="Settings.settings" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\Settings.settings">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="primary.resx" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\primary.resx">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="Resources.resx" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\Resources.resx">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="TechAdmin_StandAlone.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="TechAdmin_StandAlone" Source="TechAdmin_StandAlone.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="BasicFtp" Source="..\BasicFtp\BasicFtp.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="0" Project="BasicFtp" Source="..\BasicFtp\BasicFtp.csproj" Description="Project file successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\BasicFtp\BasicFtp.csproj">
+</Event><Event ErrorLevel="0" Project="BasicFtp" Source="..\BasicFtp\BasicFtp.cs" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\BasicFtp\BasicFtp.cs">
+</Event><Event ErrorLevel="0" Project="BasicFtp" Source="..\BasicFtp\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\UncBasedInstaller\TechAdmin\Backup\BasicFtp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BasicFtp" Source="..\BasicFtp\BasicFtp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BasicFtp" Source="..\BasicFtp\BasicFtp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="TechAdmin_StandAlone.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="TechAdmin_StandAlone.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="TechAdmin_StandAlone" Source="TechAdmin_StandAlone.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="BasicFtp" Source="..\BasicFtp\BasicFtp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

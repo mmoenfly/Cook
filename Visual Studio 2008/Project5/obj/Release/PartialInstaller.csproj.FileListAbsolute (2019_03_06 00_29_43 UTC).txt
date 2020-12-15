@@ -1,0 +1,16 @@
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\PartialInstaller.exe.config
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\PartialInstaller.exe
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\PartialInstaller.XmlSerializers.dll
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\PartialInstaller.pdb
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\office.dll
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\office.xml
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\obj\Release\ResolveAssemblyReference.cache
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\obj\Release\PartialInstaller.exe
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\obj\Release\PartialInstaller.pdb
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\obj\Release\PartialInstaller.XmlSerializers.dll
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\Installer.XmlSerializers.dll
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\Installer.exe
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\bin\Release\Installer.pdb

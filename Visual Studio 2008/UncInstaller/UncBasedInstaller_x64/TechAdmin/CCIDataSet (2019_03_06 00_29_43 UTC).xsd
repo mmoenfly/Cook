@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="CCIDataSet" targetNamespace="http://tempuri.org/CCIDataSet.xsd" xmlns:mstns="http://tempuri.org/CCIDataSet.xsd" xmlns="http://tempuri.org/CCIDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" GeneratorFunctionsComponentClassName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" UserFunctionsComponentName="QueriesTableAdapter" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="CCIConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="CCIConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.TechAdmin.Properties.Settings.GlobalReference.Default.CCIConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="XMLParmsDtlTableAdapter" GeneratorDataComponentClassName="XMLParmsDtlTableAdapter" Name="XMLParmsDtl" UserDataComponentName="XMLParmsDtlTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CCIConnectionString (Settings)" DbObjectName="CCI.dbo.XMLParmsDtl" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT distinct  
+ 
+ [Value] as 'Customer'
+     
+  FROM  [dbo].[XMLParmsDtl] where KeyName = 'customername'
+order by [Value]</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Customer" DataSetColumn="Customer" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="CCIDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="CCIDataSet" msprop:Generator_DataSetName="CCIDataSet" msprop:EnableTableAdapterManager="True">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="XMLParmsDtl" msprop:Generator_UserTableName="XMLParmsDtl" msprop:Generator_RowDeletedName="XMLParmsDtlRowDeleted" msprop:Generator_RowChangedName="XMLParmsDtlRowChanged" msprop:Generator_RowClassName="XMLParmsDtlRow" msprop:Generator_RowChangingName="XMLParmsDtlRowChanging" msprop:Generator_RowEvArgName="XMLParmsDtlRowChangeEvent" msprop:Generator_RowEvHandlerName="XMLParmsDtlRowChangeEventHandler" msprop:Generator_TableClassName="XMLParmsDtlDataTable" msprop:Generator_TableVarName="tableXMLParmsDtl" msprop:Generator_RowDeletingName="XMLParmsDtlRowDeleting" msprop:Generator_TablePropName="XMLParmsDtl">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Customer" msprop:Generator_UserColumnName="Customer" msprop:Generator_ColumnPropNameInRow="Customer" msprop:Generator_ColumnVarNameInTable="columnCustomer" msprop:Generator_ColumnPropNameInTable="CustomerColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

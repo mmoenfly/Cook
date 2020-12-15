@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>\\mmdell\cci\test4 \\mmdell\cci\target 2A862AE8FAF959FB852578A1003EDAF4 mmoen@cookconsulting.net  2007</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>\\srv02\cci\buncombe\ c:\as400dunc\  00BFF2A2130EA2CB8525786E004DDA34  mmoen@cookconsulting.net 2007</StartArguments>
+    <EnableSQLServerDebugging>true</EnableSQLServerDebugging>
+  </PropertyGroup>
+</Project>

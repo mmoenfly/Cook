@@ -1,0 +1,14 @@
+<publishData>
+  <publishTarget publishUrl="ftp://ccisupportsite.com/wslogger/">
+    <file relUrl="bin/WS_Logger.dll" publishTime="01/19/2011 14:46:13" />
+    <file relUrl="bin/WS_Logger.pdb" publishTime="01/19/2011 14:46:13" />
+    <file relUrl="WS_Logger.asmx" publishTime="01/19/2011 10:01:30" />
+    <file relUrl="Web.config" publishTime="01/19/2011 14:45:40" />
+  </publishTarget>
+  <publishTarget publishUrl="http://localhost/TestWs/">
+    <file relUrl="bin/WS_Logger.dll" publishTime="01/19/2011 14:18:36" />
+    <file relUrl="bin/WS_Logger.pdb" publishTime="01/19/2011 14:18:36" />
+    <file relUrl="WS_Logger.asmx" publishTime="01/19/2011 10:01:30" />
+    <file relUrl="Web.config" publishTime="01/19/2011 11:14:31" />
+  </publishTarget>
+</publishData>

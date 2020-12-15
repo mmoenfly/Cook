@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>http://ccisupportsite.com  D71349FEA214D64A85257835006EA4C8 mmoen@cookconsulting.net c:\as400da\</StartArguments>
+  </PropertyGroup>
+</Project>

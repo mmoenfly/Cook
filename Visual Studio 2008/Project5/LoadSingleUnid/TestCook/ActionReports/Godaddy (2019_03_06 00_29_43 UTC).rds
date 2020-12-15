@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Godaddy">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=mikem001.db.7260068.hostedresource.com; Initial Catalog=mikem001; User ID=mikem001; Password=Stella7</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>cee06ea0-6959-47b7-98be-62e553441600</DataSourceID>
+</RptDataSource>

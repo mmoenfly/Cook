@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RemoveUnids.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Host" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">sql.ccisupportsite.com</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mjm</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">stella7</Value>
+    </Setting>
+    <Setting Name="RemoveUnids_CookWebSrv_GetCustomersService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.cookconsulting.net:80/cciweb.nsf/ListCustomers?OpenWebService</Value>
+    </Setting>
+    <Setting Name="LogFileLoc" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\</Value>
+    </Setting>
+    <Setting Name="DominoUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mmoen</Value>
+    </Setting>
+    <Setting Name="DominoPass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">bobbob1</Value>
+    </Setting>
+    <Setting Name="SqlConnString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">data source=cciserverlinc\sql;initial catalog=cci;user id=webuser;password=password;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

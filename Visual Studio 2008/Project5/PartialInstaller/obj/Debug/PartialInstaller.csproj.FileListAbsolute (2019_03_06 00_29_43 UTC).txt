@@ -1,0 +1,8 @@
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\PartialInstaller\bin\Debug\PartialInstaller.exe.config
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\PartialInstaller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\PartialInstaller\bin\Debug\PartialInstaller.exe
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\PartialInstaller\bin\Debug\PartialInstaller.pdb
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\PartialInstaller\bin\Debug\office.xml
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\PartialInstaller\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\PartialInstaller\obj\Debug\PartialInstaller.exe
+C:\Users\mjm.MJM\Documents\Visual Studio 2008\Project5\PartialInstaller\obj\Debug\PartialInstaller.pdb

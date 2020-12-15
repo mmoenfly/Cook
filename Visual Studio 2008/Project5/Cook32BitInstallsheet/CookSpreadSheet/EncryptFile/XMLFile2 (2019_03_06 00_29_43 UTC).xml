@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+<Customer name="mycust" id="dasfasdfadf" >
+  <UserName name="Mike" id="MikesID">
+    <SheetName name="THE EXCEL Sheet Name" Path="WHere you want to keep it" action="deleteoldone or archive">
+      <SubName Name="SUBPROC" Proc="ProcName" >
+        <Parm  array="1" Value="Somevalue" />
+        <Parm  array="2" Value="Somevalue" />
+        <Parm  array="3" Value="Somevalue" />
+      </SubName>
+    </SheetName>
+  </UserName>
+</Customer>
+</Root>

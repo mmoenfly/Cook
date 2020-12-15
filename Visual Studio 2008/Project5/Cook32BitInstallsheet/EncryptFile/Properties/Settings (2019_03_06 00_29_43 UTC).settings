@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EncryptFile.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Connectionstr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=mmdell\sql08r2;initial Catalog=CCI;Integrated Security=SSPI; </Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

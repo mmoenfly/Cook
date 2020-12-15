@@ -1,0 +1,142 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CookSpreadSheetInstall", "InstallSheet\InstallSheet.vdproj", "{557945C0-BA66-474E-B266-3274A709ECF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrtDatabase", "EncryptFile\CrtDatabase.csproj", "{784F2474-EC91-47F9-A875-2FAB0846A9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BldCustSheet", "UpDateSheet\BldCustSheet.csproj", "{55146A98-6B88-4062-8339-ACF24375E5D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installer", "Installer\Installer.csproj", "{39FAD401-BE8C-448E-B158-4BA08D2BC19A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DwnLoadDB", "DwnLoadDB\DwnLoadDB.csproj", "{9E09D4A6-F60B-4DDA-9DC3-3665512172B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness", "TestHarness\TestHarness.csproj", "{7F2566A7-3EEE-41F1-82DE-FFC25017BD04}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1CE99D34-452D-4B86-9116-37FD91AC572E} = {1CE99D34-452D-4B86-9116-37FD91AC572E}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestHarness2", "TestHarness2\TestHarness2.csproj", "{D5578D03-4720-4F5F-BFC5-951E9FBA3D0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WS_Logger", "WS_Logger\WS_Logger.csproj", "{1CE99D34-452D-4B86-9116-37FD91AC572E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uninstall", "Uninstall\Uninstall.csproj", "{BB35378E-654F-456D-A3D4-742380FA0CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialInstaller", "..\PartialInstaller\PartialInstaller.csproj", "{BDCA7E44-D9BA-4E2A-99E2-0D7F630C73E8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PartialSetupProject", "PartialSetupProject\PartialSetupProject.vdproj", "{0CF90B85-8FA7-4133-B936-6A3C75CABC92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialBeta", "PartialBeta\PartialBeta.csproj", "{8523CC11-003B-45E3-AF8A-79CD7132FCD7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PartialBetaInstaller", "PartialBetaInstaller\PartialBetaInstaller.vdproj", "{9190240B-00A2-4C0E-A03E-B282AD4DF81A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UncBasedInstaller", "..\UncBasedInstaller\UncBasedInstaller\UncBasedInstaller.csproj", "{4DE7C58A-0022-4686-B978-C923B1AC8A3F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "UncInstallerSetup", "UncInstallerSetup\UncInstallerSetup.vdproj", "{6985AFF7-B72C-4AA0-916D-4E550D267801}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 16
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://srv02:5050/tfs
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DwnLoadDB\\DwnLoadDB.csproj
+		SccProjectName1 = DwnLoadDB
+		SccLocalPath1 = DwnLoadDB
+		SccProjectUniqueName2 = EncryptFile\\CrtDatabase.csproj
+		SccProjectName2 = EncryptFile
+		SccLocalPath2 = EncryptFile
+		SccProjectUniqueName3 = Installer\\Installer.csproj
+		SccProjectName3 = Installer
+		SccLocalPath3 = Installer
+		SccProjectUniqueName4 = InstallSheet\\InstallSheet.vdproj
+		SccProjectName4 = InstallSheet
+		SccLocalPath4 = InstallSheet
+		SccProjectUniqueName5 = TestHarness2\\TestHarness2.csproj
+		SccProjectName5 = TestHarness2
+		SccLocalPath5 = TestHarness2
+		SccProjectUniqueName6 = TestHarness\\TestHarness.csproj
+		SccProjectName6 = TestHarness
+		SccLocalPath6 = TestHarness
+		SccProjectUniqueName7 = Uninstall\\Uninstall.csproj
+		SccProjectName7 = Uninstall
+		SccLocalPath7 = Uninstall
+		SccProjectUniqueName8 = UpDateSheet\\BldCustSheet.csproj
+		SccProjectName8 = UpDateSheet
+		SccLocalPath8 = UpDateSheet
+		SccProjectUniqueName9 = WS_Logger\\WS_Logger.csproj
+		SccProjectName9 = WS_Logger
+		SccLocalPath9 = WS_Logger
+		SccProjectUniqueName10 = ..\\PartialInstaller\\PartialInstaller.csproj
+		SccProjectName10 = ../PartialInstaller
+		SccLocalPath10 = ..\\PartialInstaller
+		SccProjectUniqueName11 = PartialSetupProject\\PartialSetupProject.vdproj
+		SccProjectName11 = PartialSetupProject
+		SccLocalPath11 = PartialSetupProject
+		SccProjectUniqueName12 = PartialBeta\\PartialBeta.csproj
+		SccProjectName12 = PartialBeta
+		SccLocalPath12 = PartialBeta
+		SccProjectUniqueName13 = PartialBetaInstaller\\PartialBetaInstaller.vdproj
+		SccProjectName13 = PartialBetaInstaller
+		SccLocalPath13 = PartialBetaInstaller
+		SccProjectUniqueName14 = ..\\UncBasedInstaller\\UncBasedInstaller\\UncBasedInstaller.csproj
+		SccProjectName14 = ../UncBasedInstaller/UncBasedInstaller
+		SccLocalPath14 = ..\\UncBasedInstaller\\UncBasedInstaller
+		SccProjectUniqueName15 = UncInstallerSetup\\UncInstallerSetup.vdproj
+		SccProjectName15 = UncInstallerSetup
+		SccLocalPath15 = UncInstallerSetup
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557945C0-BA66-474E-B266-3274A709ECF3}.Debug|Any CPU.ActiveCfg = Debug
+		{557945C0-BA66-474E-B266-3274A709ECF3}.Debug|Any CPU.Build.0 = Debug
+		{557945C0-BA66-474E-B266-3274A709ECF3}.Release|Any CPU.ActiveCfg = Release
+		{784F2474-EC91-47F9-A875-2FAB0846A9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784F2474-EC91-47F9-A875-2FAB0846A9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784F2474-EC91-47F9-A875-2FAB0846A9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55146A98-6B88-4062-8339-ACF24375E5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55146A98-6B88-4062-8339-ACF24375E5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55146A98-6B88-4062-8339-ACF24375E5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FAD401-BE8C-448E-B158-4BA08D2BC19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FAD401-BE8C-448E-B158-4BA08D2BC19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FAD401-BE8C-448E-B158-4BA08D2BC19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E09D4A6-F60B-4DDA-9DC3-3665512172B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E09D4A6-F60B-4DDA-9DC3-3665512172B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E09D4A6-F60B-4DDA-9DC3-3665512172B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2566A7-3EEE-41F1-82DE-FFC25017BD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2566A7-3EEE-41F1-82DE-FFC25017BD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2566A7-3EEE-41F1-82DE-FFC25017BD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5578D03-4720-4F5F-BFC5-951E9FBA3D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5578D03-4720-4F5F-BFC5-951E9FBA3D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5578D03-4720-4F5F-BFC5-951E9FBA3D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE99D34-452D-4B86-9116-37FD91AC572E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE99D34-452D-4B86-9116-37FD91AC572E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE99D34-452D-4B86-9116-37FD91AC572E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB35378E-654F-456D-A3D4-742380FA0CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB35378E-654F-456D-A3D4-742380FA0CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB35378E-654F-456D-A3D4-742380FA0CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDCA7E44-D9BA-4E2A-99E2-0D7F630C73E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDCA7E44-D9BA-4E2A-99E2-0D7F630C73E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDCA7E44-D9BA-4E2A-99E2-0D7F630C73E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF90B85-8FA7-4133-B936-6A3C75CABC92}.Debug|Any CPU.ActiveCfg = Debug
+		{0CF90B85-8FA7-4133-B936-6A3C75CABC92}.Release|Any CPU.ActiveCfg = Release
+		{8523CC11-003B-45E3-AF8A-79CD7132FCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8523CC11-003B-45E3-AF8A-79CD7132FCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8523CC11-003B-45E3-AF8A-79CD7132FCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8523CC11-003B-45E3-AF8A-79CD7132FCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9190240B-00A2-4C0E-A03E-B282AD4DF81A}.Debug|Any CPU.ActiveCfg = Debug
+		{9190240B-00A2-4C0E-A03E-B282AD4DF81A}.Release|Any CPU.ActiveCfg = Release
+		{4DE7C58A-0022-4686-B978-C923B1AC8A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE7C58A-0022-4686-B978-C923B1AC8A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE7C58A-0022-4686-B978-C923B1AC8A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE7C58A-0022-4686-B978-C923B1AC8A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6985AFF7-B72C-4AA0-916D-4E550D267801}.Debug|Any CPU.ActiveCfg = Debug
+		{6985AFF7-B72C-4AA0-916D-4E550D267801}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

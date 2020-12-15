@@ -1,0 +1,124 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TestCook", "http://localhost/TestCook", "{17E7C9EC-2BF5-4DAD-87ED-429C09E8CA9F}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/TestCook"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\inetpub\wwwroot\Cook\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TestCook\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TestCook"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\inetpub\wwwroot\Cook\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TestCook\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\..\..\inetpub\wwwroot\Cook\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadSingleUnid", "ConsoleApplication1\LoadSingleUnid.csproj", "{EDD9F0EC-0087-470E-BA39-D9391306A89A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlUnidLoad", "SqlUnidLoad\SqlUnidLoad.csproj", "{0DA625A4-3395-4484-A96B-96BB9F042A6A}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ActionReports", "ActionReports\ActionReports.rptproj", "{049CE6E6-B0EE-4CC7-968D-986D7C77D58F}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "QuickReports", "http://localhost/apps/QuickReports", "{ED89D42F-9C64-4D2B-96E8-9672D77D5249}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/QuickReports"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\inetpub\wwwroot\apps\QuickReports\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\QuickReports\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/QuickReports"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\inetpub\wwwroot\apps\QuickReports\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\QuickReports\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\..\..\inetpub\wwwroot\apps\QuickReports\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://srv02:5050/tfs
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = http://localhost/TestCook
+		SccProjectName1 = Cook
+		SccLocalPath1 = ..\\..\\..\\..\\..\\..\\inetpub\\wwwroot\\Cook
+		SccProjectEnlistmentChoice1 = 2
+		SccProjectUniqueName2 = ConsoleApplication1\\LoadSingleUnid.csproj
+		SccProjectName2 = ConsoleApplication1
+		SccLocalPath2 = ConsoleApplication1
+		SccWebProject3 = true
+		SccProjectUniqueName3 = http://localhost/apps/QuickReports
+		SccProjectName3 = ../../QuickReports/QuickReports
+		SccLocalPath3 = ..\\..\\..\\..\\..\\..\\inetpub\\wwwroot\\apps\\QuickReports
+		SccProjectEnlistmentChoice3 = 2
+		SccProjectUniqueName4 = SqlUnidLoad\\SqlUnidLoad.csproj
+		SccProjectName4 = ../../../sqlunidload/SqlUnidLoad
+		SccLocalPath4 = SqlUnidLoad
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugLocal|Any CPU = DebugLocal|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E7C9EC-2BF5-4DAD-87ED-429C09E8CA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E7C9EC-2BF5-4DAD-87ED-429C09E8CA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E7C9EC-2BF5-4DAD-87ED-429C09E8CA9F}.DebugLocal|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E7C9EC-2BF5-4DAD-87ED-429C09E8CA9F}.DebugLocal|Any CPU.Build.0 = Debug|Any CPU
+		{17E7C9EC-2BF5-4DAD-87ED-429C09E8CA9F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E7C9EC-2BF5-4DAD-87ED-429C09E8CA9F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{17E7C9EC-2BF5-4DAD-87ED-429C09E8CA9F}.Release|Any CPU.Deploy.0 = Debug|Any CPU
+		{EDD9F0EC-0087-470E-BA39-D9391306A89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD9F0EC-0087-470E-BA39-D9391306A89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD9F0EC-0087-470E-BA39-D9391306A89A}.DebugLocal|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD9F0EC-0087-470E-BA39-D9391306A89A}.DebugLocal|Any CPU.Build.0 = Debug|Any CPU
+		{EDD9F0EC-0087-470E-BA39-D9391306A89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD9F0EC-0087-470E-BA39-D9391306A89A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA625A4-3395-4484-A96B-96BB9F042A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA625A4-3395-4484-A96B-96BB9F042A6A}.DebugLocal|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA625A4-3395-4484-A96B-96BB9F042A6A}.DebugLocal|Any CPU.Build.0 = Debug|Any CPU
+		{0DA625A4-3395-4484-A96B-96BB9F042A6A}.DebugLocal|Any CPU.Deploy.0 = Debug|Any CPU
+		{0DA625A4-3395-4484-A96B-96BB9F042A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049CE6E6-B0EE-4CC7-968D-986D7C77D58F}.Debug|Any CPU.ActiveCfg = DebugLocal
+		{049CE6E6-B0EE-4CC7-968D-986D7C77D58F}.Debug|Any CPU.Build.0 = DebugLocal
+		{049CE6E6-B0EE-4CC7-968D-986D7C77D58F}.DebugLocal|Any CPU.ActiveCfg = DebugLocal
+		{049CE6E6-B0EE-4CC7-968D-986D7C77D58F}.DebugLocal|Any CPU.Build.0 = DebugLocal
+		{049CE6E6-B0EE-4CC7-968D-986D7C77D58F}.Release|Any CPU.ActiveCfg = Release
+		{049CE6E6-B0EE-4CC7-968D-986D7C77D58F}.Release|Any CPU.Build.0 = Release
+		{049CE6E6-B0EE-4CC7-968D-986D7C77D58F}.Release|Any CPU.Deploy.0 = Release
+		{ED89D42F-9C64-4D2B-96E8-9672D77D5249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED89D42F-9C64-4D2B-96E8-9672D77D5249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED89D42F-9C64-4D2B-96E8-9672D77D5249}.DebugLocal|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED89D42F-9C64-4D2B-96E8-9672D77D5249}.DebugLocal|Any CPU.Build.0 = Debug|Any CPU
+		{ED89D42F-9C64-4D2B-96E8-9672D77D5249}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED89D42F-9C64-4D2B-96E8-9672D77D5249}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Installer.Config_Process" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEoAQQAAAgAQAADAIAAAAAAAgAAIAAAABAAABABJA=</HashCode>
+      <FileName>Config_Process.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Installer.LogClass" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Installer.PcId" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAIAAAAAAAIAACAAAgAAAAAAAYEEAAABAAAKgQBA=</HashCode>
+      <FileName>PcId.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Installer.Products" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAQAAAAAAAAAAAAAAAAIIAEJAAAAEBAAAAAAAA=</HashCode>
+      <FileName>Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Installer.DocDetails" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAYACQAAEAAAQAGBAAAAAAAAFAgAAAAAAAAAAAAAIE=</HashCode>
+      <FileName>SheetClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Installer.CopyInstall" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEoAQQAAAgAQACDBIAAAAAAAgAAIAAQARABABABBA=</HashCode>
+      <FileName>UncbasedInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TechAdmin.Program" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UncBasedInstaller.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

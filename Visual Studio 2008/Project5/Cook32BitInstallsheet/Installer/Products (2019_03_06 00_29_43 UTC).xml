@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Products>
+  <Vendor Product = "Y" file="2010 Master Employee List  - ver 011.xls">Master Vendor List</Vendor>
+<BudSummary Product = "Y" file="2010 Budget Summary and Board Report  - ver 011.xls">Budget Summary and Board Report</BudSummary>
+<BudDet Product = "Y" file="2010 Budget with Details  - ver 011.xls">Budget with Details</BudDet>
+<BudCN Product = "Y" file="2010 C.xls">Budget with Details - Child Nutrition</BudCN>
+<PO Product = "Y" file="2010 D.xls">Purchase Orders with Details</PO>
+<Absences Product = "Y" file="2010 E.xls">Absence History</Absences>
+<AbsenceSettings Product = "Y" file="2010 F.xls">AbsenceSettings</AbsenceSettings>
+<SubBusHist Product = "Y" file="2010 G.xls">Substitute and Bus Driver Payroll History</SubBusHist>
+<MasterEmployee Product = "Y" file="2010 H.xls">Master Employee List</MasterEmployee>
+<PayrollAssign Product = "Y" file="2010 I.xls">ISIS Payroll Assignments</PayrollAssign>
+<PayrollSettings Product = "Y" file="2010 J.xls">PayrollSettings</PayrollSettings>
+<PayrollHistory Product = "Y" file="2010 K.xls">ISIS Payroll History</PayrollHistory>
+<Vendor Product = "Y" file="2010 L.xls">Master Vendor List</Vendor>
+<Deductions Product = "Y" Name = "Deductions1" file="2010 M.xls">Actual Deductions by Check Date</Deductions>
+<Deductions Product = "Y" Name = "Deductions2" file="2010 N.xls">Payroll Deductions</Deductions>
+<HRMSCert Product = "Y" file="2010 O.xls">HRMS Certification and Renewal Credits</HRMSCert>
+<Applicants Product = "Y" file="2010 P.xls">Applicants</Applicants>
+</Products>

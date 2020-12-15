@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<!-- Sheet Specs! -->
+<Config>
+<Sheet Name="Budget with Details" >
+  <Parm keyName="ConnectionNm" Passed="Y"/>
+  <Parm keyName="SystemNm" Passed="Y"/>
+  <Parm keyName="CustomerName" Passed="Y" />
+  <Parm keyName="UserName"  Passed="Y"/>
+  <Parm keyName="SystemType" Passed="N"/>
+  <Parm keyName="FinanceType" Passed="N" />
+</Sheet>
+  <Sheet Name="Purchase Orders with Details">
+    <Parm keyName="ConnectionNm" Passed="Y"/>
+    <Parm keyName="SystemNm" Passed="Y"/>
+    <Parm keyName="CustomerName" Passed="Y" />
+    <Parm keyName="UserName"  Passed="Y"/>
+    <Parm keyName="SystemType" Passed="N"/>
+    <Parm keyName="FinanceType" Passed="N" />
+    <Parm keyName="SpecialInd" Passed="Y" />
+    <Parm keyName="OtherDepts" Passed="Y" />
+  </Sheet>
+</Config>

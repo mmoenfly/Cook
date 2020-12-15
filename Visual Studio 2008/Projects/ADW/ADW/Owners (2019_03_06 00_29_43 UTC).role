@@ -1,0 +1,12 @@
+﻿<Role xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Role 1</ID>
+  <Name>Owners</Name>
+  <CreatedTimestamp>2011-12-17T21:34:58.096667Z</CreatedTimestamp>
+  <LastSchemaUpdate>2011-12-17T21:35:54.683333Z</LastSchemaUpdate>
+  <Members>
+    <Member>
+      <Name>MJM\kerberos</Name>
+      <Sid>S-1-5-21-3068195782-3162400166-4192058526-1132</Sid>
+    </Member>
+  </Members>
+</Role>

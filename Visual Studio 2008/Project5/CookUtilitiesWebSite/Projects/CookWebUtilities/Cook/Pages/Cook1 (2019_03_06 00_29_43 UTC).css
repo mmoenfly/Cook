@@ -1,0 +1,143 @@
+﻿body
+{
+    vertical-align: text-bottom;
+    padding: 0;
+ 
+    font-size: medium;
+    line-height: inherit;
+}
+.Titles
+{
+    font-family: Verdana;
+    font-size: large;
+    list-style-type: disc;
+    list-style-position: outside;
+}
+.MainBody
+{
+    font-family: Verdana;
+    font-size: large;
+    list-style-type: disc;
+    list-style-position: outside;
+}
+.TopLeft
+{
+    border-width: 0px;
+    border-color: #FFFFFF;
+    background-image: url('/Pages/Images/CCILogo.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left top;
+    background-color: #FFFFFF;
+    border-spacing: 0px;
+}  
+
+ .style1
+{
+    width: 100%;
+    height: 200px;
+    border: 1px solid #000000;
+    background-color: #FFFFFF;
+}
+        .style2
+        {
+            width: 300px;
+        }
+        .style3
+        {
+}
+        .style4
+        {
+             
+          
+            width: 300px;
+        }
+       
+       .err
+{
+    color: #FF0000;
+    font-family: Arial;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+       .good
+{
+    color: #008000;
+    font-family: Arial;
+    font-weight: bolder;
+    text-transform: capitalize;
+}
+label
+{
+    border: thin solid #FFFFFF;
+    display: block;
+    vertical-align: super;
+    font-family: Arial, Helvetica, sans-serif, Verdana;
+    color: #000000;
+    text-align: left;
+}
+.inpbox
+{
+    margin-left: 3px;
+    border: medium solid #FFCC00;
+    background-color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif, Verdana;
+    font-size:smaller;
+    color: #000000;
+    height: 40px;
+}
+select , input
+{
+    border: thin solid #FFFF00;
+   
+    height: 20px;
+    padding: 0;
+    margin: 0;
+    
+  
+    overflow: hidden;
+    background-color: #FFFFCC;
+    
+}
+input.submit:hover{
+   color:Orange;
+} 
+.btn
+{
+    padding: 0px;
+    margin: 0px;
+    border: thin solid #000000;
+    height:20px;
+    width:100px;
+}
+.btn:hover
+{ background-color: Blue;
+}
+ 
+img
+{
+    clip: rect(0px, auto, auto, 0px);
+    margin:0px;
+    padding:0px;
+    border:none; 
+}
+td
+{ text-align:left;
+  vertical-align:top;
+}
+#wrapper
+{ width:800px;
+  margin :0 ;
+}
+ #left
+{ width:50%;
+  margin:0 0 0 20px; 
+  padding :0px ;
+  float:left;
+}
+  
+.lbl1
+{
+    font-size:5em;
+}
+ 

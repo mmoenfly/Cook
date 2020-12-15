@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="C#" CodeBehind="Ws_Logger.asmx.cs" Class="WS_Logger.WS_Logger" %>
